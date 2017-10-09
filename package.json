@@ -1,0 +1,41 @@
+{
+  "name": "gulp-arttemp-seajs",
+  "version": "1.0.1",
+  "description": "gulp plugin for artTemplete to seajs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumerliu/gulp-artTemp-seajs.git"
+  },
+  "keywords": [
+    "seajs",
+    "artTemplete",
+    "gulp",
+    "gulp-plugin"
+  ],
+  "dependencies": {
+    "bufferstreams": "^1.1.0",
+    "gulp-util": "^3.0.7",
+    "html-minifier": "^3.0.3",
+    "object-assign": "^4.0.1",
+    "readable-stream": "^2.0.2",
+    "tryit": "^1.0.1"
+  },
+  "devDependencies": {
+    "@shinnn/eslint-config-node-legacy": "^2.0.0",
+    "chai": "^3.4.0",
+    "eslint": "^2.4.0",
+    "mocha": "*",
+    "simple-bufferstream": "^1.0.0",
+    "vinyl": "^1.1.0"
+  },
+  "author": "tianjiao.liu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sumerliu/gulp-artTemp-seajs/issues"
+  },
+  "homepage": "https://github.com/sumerliu/gulp-artTemp-seajs#readme"
+}
